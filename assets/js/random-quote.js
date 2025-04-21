@@ -7,6 +7,26 @@ const generateQuote = function() {
     {
         quote: "You asked me if you were a good man, and the answer is ... I don't know. <br/>But I think you try to be. And I think that's probably the point.",
         author: "Clara Oswald (Doctor Who)"
+    },
+    {
+        quote: "Au début on naît, à la fin on meurt, et entre les deux il se passe des trucs.",
+        author: "Kyan Khojandi (Bref.)"
+    },
+    {
+        quote: "Que la force me soit donnée de supporter ce qui ne peut être changé et le courage de changer ce qui peut l'être ; mais aussi la sagesse de distinguer l'un de l'autre.",
+        author: "Marc Aurèle"
+    },
+    {
+        quote: "Oublie que t'as aucune chance, vas-y, fonce. <br/>On sait jamais, sur un malentendu ça peut marcher.",
+        author: "Jean-Claude Dusse (Les Bronzés font du Ski)"
+    },
+    {
+        quote: "Se passionner pour tout et ne tenir à rien.",
+        author: "Jean-Louis Barrault"
+    },
+    {
+        quote: "Don't tell them your ideas, show them your results.",
+        author: "Sakib Tamboli"
     }
 ];
 
