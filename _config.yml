@@ -1,5 +1,5 @@
 # Site settings
-title: Cassie's BD Blog # site title
+title: Cassie's Brain Dump # site title
 description: >- # site description
   Banal petit blog contenant les banales petites réflexions quotidiennes d'une banale petite meuf.
 lang: fr-FR # default lang
@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Cassie's Brain Dump # author name
+  name: Cassie # author name
   bio: >- # tell to the world
     Banal petit blog contenant les banales petites réflexions quotidiennes d'une banale petite meuf.
   username: ErranticSam # general username
