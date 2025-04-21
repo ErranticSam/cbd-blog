@@ -3,9 +3,8 @@ name: Deploy to Neocities
 
 on: push # triggers every time you run "git push"
 
-concurrency: # concurrency stuff. dont worry about it
-	group: deploy-to-neocities
-	cancel-in-progress: true
+# concurrency stuff. dont worry about it
+concurrency: deploy-to-neocities
 
 jobs:
 	deploy:
