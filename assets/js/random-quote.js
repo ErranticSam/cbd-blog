@@ -27,6 +27,14 @@ const generateQuote = function() {
     {
         quote: "Don't tell them your ideas, show them your results.",
         author: "Sakib Tamboli"
+    },
+    {
+        quote: "Le sens de la vie est juste d'être vivant. C'est tellement évident et simple. <br/>Et pourtant, tout le monde se précipite dans une grande panique comme s'il était nécessaire d'accomplir quelque chose au-delà de soi-même.",
+        author: "Alan Watts"
+    },
+    {
+        quote: "Change is hard at first, messy in the middle, and gorgeous at the end.",
+        author: "Robin Sharma"
     }
 ];
 
