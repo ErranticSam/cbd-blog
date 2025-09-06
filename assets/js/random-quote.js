@@ -35,12 +35,16 @@ const generateQuote = function() {
     {
         quote: "Change is hard at first, messy in the middle, and gorgeous at the end.",
         author: "Robin Sharma"
+    },
+    {
+        quote: "Tous les gens que tu rencontres mènent un combat dont tu ignores tout. <br/>Sois indulgent·e. Toujours.",
+        author: "SKAM France (S2 E12)"
     }
 ];
 
     let arrayIndex = Math.floor(Math.random() * quotes.length);
     document.getElementById("rng-quote").innerHTML = "&ldquo;" + quotes[arrayIndex].quote + "&rdquo;";
-    document.getElementById("rng-author").innerHTML = "&mdash; " + quotes[arrayIndex].author;
+    document.getElementById("rng-author").innerHTML = /* "&mdash; "  + */quotes[arrayIndex].author;
 
 }
 window.onload = function() {
